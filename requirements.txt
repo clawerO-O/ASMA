@@ -1,0 +1,17 @@
+advertorch==0.2.3
+albumentations==0.4.5
+efficientnet_pytorch==0.7.1
+matplotlib==3.8.2
+numpy==1.21.6
+Pillow==7.1.2
+scikit-image==0.17.2
+scikit-learn==1.0.2
+scipy==1.4.0
+skimage==0.0
+torch==1.8.1
+torchattacks==3.4.0
+torchdiffeq==0.2.3
+torchvision==0.9.1
+opencv-contrib-python==4.7.0.72
+opencv-python==3.4.18.65
+opencv-python-headless==4.6.0.66
