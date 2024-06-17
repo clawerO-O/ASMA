@@ -195,7 +195,7 @@ def cal_accuracy(eval_model, adv_imgs, labels):
 def show_accuracy(ori_acc_record, adv_acc_record, opt):
     ori_acc = np.mean(ori_acc_record)*100.
     adv_acc = np.mean(adv_acc_record)*100.
-    ori_acc, adv_accs = cnt(opt)
+    #ori_acc, adv_accs = cnt(opt)
     print("="*50)
     print("="*17,"accuracy","="*17)
     print("Origin : acc = %.4f"% (ori_acc))
